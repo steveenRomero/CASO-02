@@ -72,7 +72,7 @@ const config = {
           src: 'img/logo.png',
         },
         items: [
-          { to: '/', label: 'Inicio', position: 'right' },
+          { to: '/', label: 'Home', position: 'right' },
           { to: '/docs/informacion', label: 'Información', position: 'right' },
         ],
       },
