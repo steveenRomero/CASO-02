@@ -107,7 +107,7 @@ const config = {
             ],
           },
         ],
-        copyright: `© Doctor PC | Jairo Calderon`,
+        copyright: `© Doctor PC | Aldo Romero`,
       },
       prism: {
         theme: prismThemes.github,
